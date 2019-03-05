@@ -72,6 +72,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [shasper, Shasper beacon chain implementation using the Substrate framework](https://github.com/paritytech/shasper)
 
 ## Ecosystem Tools
+* [A set of tools for writing Polkadot parachains that are based on Substrate](https://github.com/paritytech/cumulus)
 * [Jaco’s UI for Substrate and Polkadot built with React.js and RxJS](https://polkadot.js.org/apps/next/#/explorer)
 * [Polkabot, network monitoring and reporting](https://medium.com/polkadot-network/polkabot-a3dba18c20c8)
 * [Polkadash, Dashboard displaying all current validators and governance proposals](http://polkadash.io)
@@ -151,5 +152,6 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Web3 Foundation](https://web3.foundation)
 
 ## YouTube Channel
+* [Parity Tech](https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg)
 * [Polkadot Network](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
 * [Web3 Foundation](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g)
