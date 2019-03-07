@@ -89,8 +89,8 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Polkadot White Paper](https://github.com/polkadot-io/polkadot-white-paper)
 
 ## Talks
-* [Benjamin Kampmann, WASM in the wild, 20181107](https://www.youtube.com/watch?v=ULQRGXziF3s&t)
 * [Benjamin Kampmann, A New Dawn: Building DApps with Substrate, 20190208](https://www.youtube.com/watch?v=Bamo8xjPzVc)
+* [Benjamin Kampmann, WASM in the wild, 20181107](https://www.youtube.com/watch?v=ULQRGXziF3s&t)
 * [Gavin Wood, Polkadot Meetup @ Neutrino Beijing, 20181206](https://www.youtube.com/watch?v=M54wSJVHDGI&t)
 * [Gavin Wood, Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit, 20181023](https://www.youtube.com/watch?v=0IoUZdDi5Is), [slides](https://slides.com/paritytech/substrate_web3summit#/)
 * [Gavin Wood, on Polkadot, Sharding and Substrate, 20181010](https://www.zeroknowledge.fm/46)
@@ -110,6 +110,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 ## Repositories
 * [apps, Basic Polkadot/Substrate UI for interacting with a node](https://github.com/polkadot-js/apps)
 * [client, WIP and POC JavaScript version of a simplified Polkadot network client](https://github.com/polkadot-js/client)
+* [cumulus, Write Parachains on Substrate](https://github.com/paritytech/cumulus)
 * [finality-grandpa, GHOST-based Recursive ANcestor Deriving Prefix Agreement](https://github.com/paritytech/finality-grandpa)
 * [messaging, Messaging for Web3](https://github.com/w3f/messaging)
 * [parity-bridge, Bridge between any two ethereum-based networks](https://github.com/paritytech/parity-bridge)
