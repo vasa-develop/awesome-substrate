@@ -73,8 +73,10 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 
 ## Ecosystem Tools
 * [A set of tools for writing Polkadot parachains that are based on Substrate](https://github.com/paritytech/cumulus)
+* [go-pre, Golang Polkadot Runtime Environment Implementation](https://github.com/ChainSafeSystems/go-pre)
 * [Jaco’s UI for Substrate and Polkadot built with React.js and RxJS](https://polkadot.js.org/apps/next/#/explorer)
 * [Polkabot, network monitoring and reporting](https://medium.com/polkadot-network/polkabot-a3dba18c20c8)
+* [polkadot cpp, C++ Polkadot Runtime Environment Implementation](https://github.com/soramitsu/polkadot)
 * [Polkadash, Dashboard displaying all current validators and governance proposals](http://polkadash.io)
 * [Polkascan, Real-time multi-chain data for Polkadot Relay Chain and Parity Substrate chains](https://polkascan.io)
 * [Speckle OS, Building the new web on Polkadot](https://www.speckleos.io)
@@ -88,6 +90,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 
 ## Talks
 * [Benjamin Kampmann, WASM in the wild, 20181107](https://www.youtube.com/watch?v=ULQRGXziF3s&t)
+* [Benjamin Kampmann, A New Dawn: Building DApps with Substrate, 20190208](https://www.youtube.com/watch?v=Bamo8xjPzVc)
 * [Gavin Wood, Polkadot Meetup @ Neutrino Beijing, 20181206](https://www.youtube.com/watch?v=M54wSJVHDGI&t)
 * [Gavin Wood, Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit, 20181023](https://www.youtube.com/watch?v=0IoUZdDi5Is), [slides](https://slides.com/paritytech/substrate_web3summit#/)
 * [Gavin Wood, on Polkadot, Sharding and Substrate, 20181010](https://www.zeroknowledge.fm/46)
@@ -99,6 +102,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Peter Czaba, Polkadot – The Internet of Blockchain Networks, 20170904](https://www.youtube.com/watch?v=oiunBLGHlAU)
 * [Presentation material](https://github.com/w3f/Web3-collaboration/blob/master/meetups.md)
 * [Robert Habermeier, Polkadot & Parity Substrate at Polkadot SF, 20181212](https://www.youtube.com/watch?v=PoHa2p5XzUs)
+* [Robert Habermeier, Shasper on Substrate by Robert Habermeier (Devcon4), 20181210](https://www.youtube.com/watch?v=YDJCezRzaXg)
 * [Robert Habermeier, Polkadot for Developers: Status, Roadmap and Tools, 20181208](https://www.youtube.com/watch?v=XbJ1ESl_Dhw)
 * [Robert Habermeier, presents Polkadot's Interoperability, 20180711](https://www.youtube.com/watch?v=RSAFHhTwA8Q)
 * [Robert Habermeier, presents Parity Substrate at the Berlin Truebit Meetup, 20180518](https://www.youtube.com/watch?v=q1zLHO7Lkuk)
