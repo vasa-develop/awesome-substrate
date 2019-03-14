@@ -75,6 +75,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [A set of tools for writing Polkadot parachains that are based on Substrate](https://github.com/paritytech/cumulus)
 * [go-pre, Golang Polkadot Runtime Environment Implementation](https://github.com/ChainSafeSystems/go-pre)
 * [Jaco’s UI for Substrate and Polkadot built with React.js and RxJS](https://polkadot.js.org/apps/next/#/explorer)
+* [pdsl, Parity's DSL for Smart Contracts](https://github.com/Robbepop/pdsl)
 * [Polkabot, network monitoring and reporting](https://medium.com/polkadot-network/polkabot-a3dba18c20c8)
 * [polkadot cpp, C++ Polkadot Runtime Environment Implementation](https://github.com/soramitsu/polkadot)
 * [Polkadash, Dashboard displaying all current validators and governance proposals](http://polkadash.io)
