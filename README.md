@@ -56,11 +56,10 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Polkadot Javascript API](https://polkadot.js.org/api/)
 * [Polkadot UI, POC-2 Testnet browser & apps](https://github.com/paritytech/polkadot/wiki/Polkadot-UI)
 * [Polkadot Wiki GitHub @paritytech](https://github.com/paritytech/polkadot/wiki)
-* [Polkadot Wiki GitHub @w3f](https://github.com/w3f/Web3-wiki/wiki/Polkadot)
+* [Polkadot Wiki](https://wiki.polkadot.network), [on GitHub](https://github.com/w3f/Web3-wiki/wiki/Polkadot)
 * [Substrate Developer Hub](https://substrate.readme.io)
 * [Substrate Wiki](https://wiki.parity.io/Parity-Substrate)
 * [Substrate Wiki GitHub @paritytech](https://github.com/paritytech/substrate/wiki)
-* [Substrate Wiki GitHub @w3f](https://github.com/w3f/Web3-wiki/wiki/Substrate)
 * [swarms, New, completed and in-progress features for Status](https://github.com/status-im/swarms)
 * [Validating on PoC 2](https://github.com/paritytech/polkadot/wiki/Validating-on-PoC-2)
 
@@ -70,6 +69,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Edgeware, an experimental blockchain for demonstrating the effectiveness of on-chain governance](https://github.com/hicommonwealth)
 * [parity-zcash](https://github.com/paritytech/parity-zcash)
 * [shasper, Shasper beacon chain implementation using the Substrate framework](https://github.com/paritytech/shasper)
+* [substrate-node-robonomics, Robonomics on Substrate node](https://github.com/airalab/substrate-node-robonomics)
 
 ## Ecosystem Tools
 * [A set of tools for writing Polkadot parachains that are based on Substrate](https://github.com/paritytech/cumulus)
@@ -116,6 +116,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Gavin Wood, presents Parity Substrate at EventHorizon18, with Q&A panel including Christoph Jentzsch (Slock.it) and Ed Hesse (Energy Web Foundation), 20180530](https://www.youtube.com/watch?v=iUMZyL5kTwc), [slides](https://slides.com/paritytech/paritysubstrate#/)
 * [Gavin Wood, presents Polkadot Governance at EDCon Toronto, 20180504](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24700s), [slides](https://slides.com/paritytech/polkadot-governance#/)
 * [Gavin Wood, Polkadot Overview at Ethereum London, 20170710](https://www.youtube.com/watch?v=lIghiCmHz0U&feature=youtu.be)
+* [Ivo Georgiev, Building Payment Channels with Substrate, 20190310](https://www.youtube.com/watch?v=1CeI6Oa1BnU)
 * [Jack Fransham, Jutta Steiner, hack.summit("blockchain”), 20180713](https://www.youtube.com/watch?v=_ACbkB3kLH8&t)
 * [Jutta Steiner, Fireside Chat with Jutta Steiner at TechCrunch Sessions Blockchain, 20180706](https://techcrunch.com/video/fireside-chat-with-jutta-steiner-parity-technologies/)
 * [Peter Czaba, Polkadot – The Internet of Blockchain Networks, 20170904](https://www.youtube.com/watch?v=oiunBLGHlAU)
@@ -127,6 +128,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Robert Habermeier, presents Polkadot's Interoperability, 20180711](https://www.youtube.com/watch?v=RSAFHhTwA8Q)
 * [Robert Habermeier, presents Parity Substrate at the Berlin Truebit Meetup, 20180518](https://www.youtube.com/watch?v=q1zLHO7Lkuk)
 * [Shawn Tabrizi, on Forkless upgrades with Substrate, at EthCC 2, 20190310](https://www.youtube.com/watch?v=OCHQwDqbscs)
+* [YouTube Channel](#youtube-channel)
 
 ## Tutorial Repositories
 * [dapp-tutorial, The Dapp tutorial at its various stages](https://github.com/paritytech/dapp-tutorial)
