@@ -75,6 +75,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [substrate-node-joystream, A user governed video platform](https://github.com/Joystream/substrate-node-joystream)
 * [substrate-node-robonomics, , AIRA project implements the standard of economic interaction between human-robot and robot-robot via liability smart contract](https://github.com/airalab/substrate-node-robonomics)
 * [zero-chain, A privacy-protecting blockchain on Substrate](https://github.com/LayerXcom/zero-chain)
+* [Teams building on Polkadot](https://forum.web3.foundation/t/teams-building-on-polkadot/67)
 
 ## Ecosystem Tools
 * [bellman-substrate, A library for supporting zk-SNARKs to Substrate](https://github.com/LayerXcom/bellman-substrate)
