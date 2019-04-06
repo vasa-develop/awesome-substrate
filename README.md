@@ -128,6 +128,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Gavin Wood, presents Parity Substrate at EventHorizon18, with Q&A panel including Christoph Jentzsch (Slock.it) and Ed Hesse (Energy Web Foundation), 20180530](https://www.youtube.com/watch?v=iUMZyL5kTwc), [slides](https://slides.com/paritytech/paritysubstrate#/)
 * [Gavin Wood, presents Polkadot Governance at EDCon Toronto, 20180504](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24700s), [slides](https://slides.com/paritytech/polkadot-governance#/)
 * [Gavin Wood, ZeroKnowledgeFM 12: How to become a blockchain developer? We ask Gavin Wood, 20180215](https://www.zeroknowledge.fm/12)
+* [Gavin Wood, The Journey to Web3 at the M-0 conference in Zug, 20171129](https://www.youtube.com/watch?v=lH1pEE0W3ug)
 * [Gavin Wood, Polkadot Overview at Ethereum London, 20170710](https://www.youtube.com/watch?v=lIghiCmHz0U&feature=youtu.be)
 * [Ivo Georgiev, Building Payment Channels with Substrate, 20190310](https://www.youtube.com/watch?v=1CeI6Oa1BnU)
 * [Jack Fransham, Jutta Steiner, hack.summit("blockchain”), 20180713](https://www.youtube.com/watch?v=_ACbkB3kLH8&t)
