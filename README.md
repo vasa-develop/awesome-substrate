@@ -144,6 +144,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Robert Habermeier, presents Polkadot's Interoperability, 20180711](https://www.youtube.com/watch?v=RSAFHhTwA8Q)
 * [Robert Habermeier, presents Parity Substrate at the Berlin Truebit Meetup, 20180518](https://www.youtube.com/watch?v=q1zLHO7Lkuk)
 * [Robert Habermeier, Consensus: ZeroKnowledgeFM 15 - Chatting about Consensus Algorithms with Robert Habermeier, 20180308](https://www.zeroknowledge.fm/15)
+* [Shawn Tabrizi, ETHParis Using Substrate to build custom blockchains, 20190324](https://www.youtube.com/watch?v=m78cMqvqCw8)
 * [Shawn Tabrizi, on Forkless upgrades with Substrate, at EthCC 2, 20190310](https://www.youtube.com/watch?v=OCHQwDqbscs)
 * [YouTube Channel](#youtube-channel)
 
