@@ -63,6 +63,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Substrate Wiki GitHub @paritytech](https://github.com/paritytech/substrate/wiki)
 * [swarms, New, completed and in-progress features for Status](https://github.com/status-im/swarms)
 * [Validating on PoC 2](https://github.com/paritytech/polkadot/wiki/Validating-on-PoC-2)
+* [Web3 Hub](https://wiki.web3.foundation)
 
 ## Ecosystem Blockchains
 * [adex-protocol-substrate, Substrate implementation of the AdEx Protocol v4: OUTPACE & Registry](https://github.com/AdExNetwork/adex-protocol-substrate)
@@ -145,7 +146,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Robert Habermeier, presents Polkadot's Interoperability, 20180711](https://www.youtube.com/watch?v=RSAFHhTwA8Q)
 * [Robert Habermeier, presents Parity Substrate at the Berlin Truebit Meetup, 20180518](https://www.youtube.com/watch?v=q1zLHO7Lkuk)
 * [Robert Habermeier, Consensus: ZeroKnowledgeFM 15 - Chatting about Consensus Algorithms with Robert Habermeier, 20180308](https://www.zeroknowledge.fm/15)
-* [Shawn Tabrizi, ETHParis Using Substrate to build custom blockchains, 20190324](https://www.youtube.com/watch?v=m78cMqvqCw8)
+* [Shawn Tabrizi, ETHParis Using Substrate to build custom blockchains, 20190324](https://www.youtube.com/watch?v=m78cMqvqCw8), [slides](https://docs.google.com/presentation/d/1dhaoLb5V2K_vDe4EJlUcKwePD1nMktr57fOdSo8bHns)
 * [Shawn Tabrizi, on Forkless upgrades with Substrate, at EthCC 2, 20190310](https://www.youtube.com/watch?v=OCHQwDqbscs)
 * [YouTube Channel](#youtube-channel)
 
@@ -162,6 +163,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [substrate, simple example of a runtime module, demonstrating concepts, APIs and structures common to most runtime modules](https://github.com/paritytech/substrate/blob/master/srml/example/src/lib.rs)
 * [substrate-contracts-adder, serge pepyakin demo wasm smartcontract](https://github.com/pepyakin/substrate-contracts-adder)
 * [substrate-proof-of-existence](https://github.com/shawntabrizi/substrate-proof-of-existence)
+* [wasm-example, how we compiled libp2p into wasm and made it run in the browser](https://github.com/tomaka/libp2p-rs/tree/wasm-test/misc/wasm-example), [slides](https://github.com/tomaka/2019-rustlatam-meetup)
 
 ## Turorial Step by Step
 * [Creating a custom Substrate chain](https://substrate.readme.io/docs/creating-a-custom-substrate-chain)
@@ -169,6 +171,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Deploying a Substrate Node chain](https://substrate.readme.io/docs/deploying-a-substrate-node-chain)
 * [Governance "Public" Mechanism with a Substrate Node Chain](https://substrate.readme.io/v1.0.0/docs/governance-public-mechanism-with-a-substrate-node-chain)
 * [How to build a Custom Substrate Module from scratch](https://gitlab.com/chrisdcosta/basictest/blob/master/Howto.md)
+* [How To Build Your Own Blockchain Using Parity Substrate, 20190411](https://hackernoon.com/build-your-blockchain-with-parity-substrate-a8ddc4872ed7)
 * [Proof of Existence Blockchain with Substrate](https://shawntabrizi.com/parity/proof-of-existence-blockchain-with-substrate/)
 * [Substrate Collectables Workshop](https://shawntabrizi.github.io/substrate-collectables-workshop/#/README)
 * [Substrate node, Install and run a Substrate node on BBQ-Birch testnet](https://hackmd.io/y-E9Q9jTRreni6z9EU0kkA#)
