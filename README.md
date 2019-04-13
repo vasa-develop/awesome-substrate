@@ -42,8 +42,10 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Web3 Foundation Forum](https://forum.web3.foundation)
 
 ## Documentation
+* [BABE, Blind Assignment for Blockchain Extension, deploy Ouroboros Praos style block production](https://github.com/w3f/research/tree/master/docs/polkadot/BABE)
 * [DOT, Receive the native testnet token](https://github.com/paritytech/polkadot/wiki/DOT)
 * [messaging, A Decentralised Privacy-Preserving Communication Protocol](https://github.com/w3f/messaging)
+* [NPoS, a scheme used to select the validators implemented in the Polkadot blockchain](https://github.com/w3f/research/tree/master/docs/polkadot/NPoS)
 * [Parachains, Parachain Deployment and Querying](https://github.com/paritytech/polkadot/wiki/Parachains)
 * [parity-book, mining on Ethereum and running & building Dapps](https://github.com/paritytech/parity-book)
 * [Parity Ethereum](https://wiki.parity.io/Parity-Ethereum)
