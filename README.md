@@ -122,7 +122,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 ## Talks
 * [Benjamin Kampmann, A New Dawn: Building DApps with Substrate, 20190208](https://www.youtube.com/watch?v=Bamo8xjPzVc)
 * [Benjamin Kampmann, WASM in the wild, 20181107](https://www.youtube.com/watch?v=ULQRGXziF3s&t)
-* [Gavin Wood, Upcoming Polkadot Developments at the M1 Conference, 20190208](https://www.youtube.com/watch?v=Opj_5ORbyXA&feature=youtu.be&t=21972)
+* [Gavin Wood, Upcoming Polkadot Developments at the M1 Conference, 20190208](https://www.youtube.com/watch?v=IRc5Jma_eH8)
 * [Gavin Wood, Polkadot Meetup @ Neutrino Beijing, 20181206](https://www.youtube.com/watch?v=M54wSJVHDGI&t)
 * [Gavin Wood, Vlad and Gav go head-to-head on blockchain governance, 20181121](https://www.zeroknowledge.fm/52)
 * [Gavin Wood, Epicenter #259 Gavin Wood: Substrate, Polkadot and the Case for On-Chain Governance, 20181031](https://www.youtube.com/watch?v=eP4mT19S_jg)
@@ -133,6 +133,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Gavin Wood, ZeroKnowledgeFM 12: How to become a blockchain developer? We ask Gavin Wood, 20180215](https://www.zeroknowledge.fm/12)
 * [Gavin Wood, The Journey to Web3 at the M-0 conference in Zug, 20171129](https://www.youtube.com/watch?v=lH1pEE0W3ug)
 * [Gavin Wood, Polkadot Overview at Ethereum London, 20170710](https://www.youtube.com/watch?v=lIghiCmHz0U&feature=youtu.be)
+* [Gavin Wood, Polkadot - the internet of blockchains has arrived, 20161207](https://www.youtube.com/watch?v=Eeo0FJ5PCjI)
 * [Ivo Georgiev, Building Payment Channels with Substrate, 20190310](https://www.youtube.com/watch?v=1CeI6Oa1BnU)
 * [Jack Fransham, Jutta Steiner, hack.summit("blockchain”), 20180713](https://www.youtube.com/watch?v=_ACbkB3kLH8&t)
 * [Jutta Steiner, ZeroKnowledgeFM 58: Kicking off 2019 with Jutta Steiner, 20190102](https://www.zeroknowledge.fm/58)
