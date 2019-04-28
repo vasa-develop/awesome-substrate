@@ -98,6 +98,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Telemetry, Information services website listing names and location of all active nodes](https://telemetry.polkadot.io/#/Charred%20Cherry)
 
 ## Papers
+* [Byzantine Finality Gadgets](https://research.web3.foundation/en/latest/polkadot/GRANDPA/)
 * [GRANDPA](https://github.com/w3f/consensus)
 * [Polkadot Light Paper](https://github.com/w3f/polkadot-light-paper)
 * [Polkadot White Paper](https://github.com/polkadot-io/polkadot-white-paper)
