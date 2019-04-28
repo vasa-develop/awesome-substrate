@@ -123,6 +123,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 ## Talks
 * [Benjamin Kampmann, A New Dawn: Building DApps with Substrate, 20190208](https://www.youtube.com/watch?v=Bamo8xjPzVc)
 * [Benjamin Kampmann, WASM in the wild, 20181107](https://www.youtube.com/watch?v=ULQRGXziF3s&t)
+* [Gavin Wood, Firesidechat with Vitalik Buterin and Gavin Wood, 20190415](https://www.youtube.com/watch?v=vRqJK16t4-I)
 * [Gavin Wood, Governance, what, why, and how, 20190415](https://www.youtube.com/watch?v=CYbUMLAhTL8)
 * [Gavin Wood, Upcoming Polkadot Developments at the M1 Conference, 20190208](https://www.youtube.com/watch?v=IRc5Jma_eH8)
 * [Gavin Wood, Polkadot Meetup @ Neutrino Beijing, 20181206](https://www.youtube.com/watch?v=M54wSJVHDGI&t)
@@ -143,6 +144,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Maciej Hirsz, ZeroKnowledgeFM 5: A fireside chat with a couple Parity peeps, 20171218](https://www.zeroknowledge.fm/5)
 * [Peter Czaba, Polkadot – The Internet of Blockchain Networks, 20170904](https://www.youtube.com/watch?v=oiunBLGHlAU)
 * [Presentation material](https://github.com/w3f/Web3-collaboration/blob/master/meetups.md)
+* [Robert Habermeier, How does Polkadot Compare to Ethereum & Cosmos, 20190424](https://podcasts.apple.com/us/podcast/how-does-polkadot-compare-to-ethereum-cosmos-rob-habermeier/id1350649166?i=1000436351301)
 * [Robert Habermeier, on GRANDPA consensus in Polkadot at EthCC 2, 20190310](https://www.youtube.com/watch?v=sNU40AE2ako)
 * [Robert Habermeier, Polkadot & Parity Substrate at Polkadot SF, 20181212](https://www.youtube.com/watch?v=PoHa2p5XzUs)
 * [Robert Habermeier, Shasper on Substrate by Robert Habermeier (Devcon4), 20181210](https://www.youtube.com/watch?v=YDJCezRzaXg)
@@ -168,6 +170,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [substrate, simple example of a runtime module, demonstrating concepts, APIs and structures common to most runtime modules](https://github.com/paritytech/substrate/blob/master/srml/example/src/lib.rs)
 * [substrate-contracts-adder, serge pepyakin demo wasm smartcontract](https://github.com/pepyakin/substrate-contracts-adder)
 * [substrate-proof-of-existence](https://github.com/shawntabrizi/substrate-proof-of-existence)
+* [utxo-workshop, A Substrate UTXO workshop](https://github.com/nczhu/utxo-workshop)
 * [wasm-example, how we compiled libp2p into wasm and made it run in the browser](https://github.com/tomaka/libp2p-rs/tree/wasm-test/misc/wasm-example), [slides](https://github.com/tomaka/2019-rustlatam-meetup)
 
 ## Turorial Step by Step
