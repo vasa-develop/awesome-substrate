@@ -124,6 +124,10 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 ## Talks
 * [Benjamin Kampmann, A New Dawn: Building DApps with Substrate, 20190208](https://www.youtube.com/watch?v=Bamo8xjPzVc)
 * [Benjamin Kampmann, WASM in the wild, 20181107](https://www.youtube.com/watch?v=ULQRGXziF3s&t)
+* [Gavin Wood, AMA with Dr. Gavin Wood at Sub0: Substrate Developer Conference, 20190510](https://www.youtube.com/watch?v=05H4YsyPA-U)
+* [Gavin Wood, Substrate Module Overview + Future Directions, Polkadot Governance at Sub0, 20190510](https://www.youtube.com/watch?v=kpUO8g_Ig0A)
+* [Gavin Wood, Gavin Wood & Jehan Chu: "The Common Ground of Ethereum and Polkadot", 20090502](https://www.youtube.com/watch?v=YvAbXiTG96E)
+* [Gavin Wood, So you want to stake on Polkadot, 20090502](https://www.youtube.com/watch?v=4Wz6FHqaTLk)
 * [Gavin Wood, Firesidechat with Vitalik Buterin and Gavin Wood, 20190415](https://www.youtube.com/watch?v=vRqJK16t4-I)
 * [Gavin Wood, Governance, what, why, and how, 20190415](https://www.youtube.com/watch?v=CYbUMLAhTL8)
 * [Gavin Wood, Upcoming Polkadot Developments at the M1 Conference, 20190208](https://www.youtube.com/watch?v=IRc5Jma_eH8)
