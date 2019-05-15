@@ -149,6 +149,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Maciej Hirsz, ZeroKnowledgeFM 5: A fireside chat with a couple Parity peeps, 20171218](https://www.zeroknowledge.fm/5)
 * [Peter Czaba, Polkadot – The Internet of Blockchain Networks, 20170904](https://www.youtube.com/watch?v=oiunBLGHlAU)
 * [Presentation material](https://github.com/w3f/Web3-collaboration/blob/master/meetups.md)
+* [Robert Habermeier, Polkadot, a framework for writing specialized blockchains & a consensus system to glue them together, 20190515](https://www.youtube.com/watch?v=mZWhRbLRSRU)
 * [Robert Habermeier, How does Polkadot Compare to Ethereum & Cosmos, 20190424](https://podcasts.apple.com/us/podcast/how-does-polkadot-compare-to-ethereum-cosmos-rob-habermeier/id1350649166?i=1000436351301)
 * [Robert Habermeier, on GRANDPA consensus in Polkadot at EthCC 2, 20190310](https://www.youtube.com/watch?v=sNU40AE2ako)
 * [Robert Habermeier, Polkadot & Parity Substrate at Polkadot SF, 20181212](https://www.youtube.com/watch?v=PoHa2p5XzUs)
