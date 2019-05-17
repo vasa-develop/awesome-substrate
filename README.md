@@ -73,6 +73,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Chainx, Fully Decentralized Cross-chain Crypto Asset Management on Polkadot](https://github.com/chainx-org/ChainX)
 * [Edgeware, an experimental blockchain for demonstrating the effectiveness of on-chain governance](https://github.com/hicommonwealth)
 * [katallassos, A Standard Framework for Finance](https://github.com/Trinkler/katallassos)
+* [parity-contracts, production-related smart contracts](https://github.com/parity-contracts)
 * [parity-zcash](https://github.com/paritytech/parity-zcash)
 * [shasper, Shasper beacon chain implementation using the Substrate framework](https://github.com/paritytech/shasper)
 * [Starlog, Metadata Blockchain based on Substrate](https://github.com/PACTCare/Starlog)
