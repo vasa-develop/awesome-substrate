@@ -1,24 +1,24 @@
 # Awesome Substrate
 A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 Foundation.
 
-- [Awesome Substrate](#awesome-substrate)
-	- [Blogs](#blogs)
-	- [Community](#community)
-	- [Documentation](#documentation)
-	- [Ecosystem Blockchains](#ecosystem-blockchains)
-	- [Ecosystem Tools](#ecosystem-tools)
-	- [Papers](#papers)
-	- [Repositories](#repositories)
-	- [Talks](#talks)
-	- [Tutorial Repositories](#tutorial-repositories)
-	- [Turorial Step by Step](#turorial-step-by-step)
-	- [Website](#website)
-	- [YouTube Channel](#youtube-channel)
+- [Awesome Substrate](#Awesome-Substrate)
+	- [Blogs](#Blogs)
+	- [Community](#Community)
+	- [Documentation](#Documentation)
+	- [Ecosystem Blockchains](#Ecosystem-Blockchains)
+	- [Ecosystem Tools](#Ecosystem-Tools)
+	- [Papers](#Papers)
+	- [Repositories](#Repositories)
+	- [Talks](#Talks)
+	- [Tutorial Repositories](#Tutorial-Repositories)
+	- [Tutorial Step by Step](#Tutorial-Step-by-Step)
+	- [Website](#Website)
+	- [YouTube Channels](#YouTube-Channels)
 
 ## Blogs
 * [Gavin Wood](https://medium.com/@gavofyork)
+* [Parity Blog](https://www.parity.io/blog/)
 * [Parity](https://medium.com/paritytech)
-* [Parity Newsletter](https://www.parity.io/newsletter/)
 * [Parity Team](https://medium.com/@ParityTech)
 * [Polkadot](https://medium.com/polkadot-network)
 * [Polkadot Team](https://medium.com/@polkadotnetwork)
@@ -28,7 +28,6 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 
 ## Community
 * [Gitter](https://gitter.im/paritytech/parity)
-* [Matrix](https://matrix.to/#/#substrate-technical:matrix.org)
 * [Reddit dot](https://www.reddit.com/r/dot/)
 * [Reddit polkadot_market](https://www.reddit.com/r/polkadot_market)
 * [Reddit web3](https://www.reddit.com/r/web3/)
@@ -47,24 +46,18 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [messaging, A Decentralised Privacy-Preserving Communication Protocol](https://github.com/w3f/messaging)
 * [NPoS, a scheme used to select the validators implemented in the Polkadot blockchain](https://github.com/w3f/research/tree/master/docs/polkadot/NPoS)
 * [Parachains, Parachain Deployment and Querying](https://github.com/paritytech/polkadot/wiki/Parachains)
+* [Parity crates registration](https://crates.parity.io/)
 * [parity-book, mining on Ethereum and running & building Dapps](https://github.com/paritytech/parity-book)
-* [Parity Ethereum](https://wiki.parity.io/Parity-Ethereum)
-* [Parity Fether](https://wiki.parity.io/Parity-Fether)
-* [Parity Signer](https://wiki.parity.io/Parity-Signer-Mobile-App)
-* [Parity UI](https://wiki.parity.io/Parity-Wallet)
 * [plokadot-js wiki](https://github.com/polkadot-js/apps/wiki)
 * [polkadot-re-spec, Incubator for Polkadot RE specc](https://github.com/w3f/polkadot-re-spec)
 * [polkadot-spec, technical description of Polkadot protocol](https://github.com/w3f/polkadot-spec)
 * [Polkadot Javascript API](https://polkadot.js.org/api/)
-* [Polkadot UI, POC-2 Testnet browser & apps](https://github.com/paritytech/polkadot/wiki/Polkadot-UI)
+* [Polkadot UI](https://github.com/paritytech/polkadot/wiki/Polkadot-UI)
 * [Polkadot Wiki GitHub @paritytech](https://github.com/paritytech/polkadot/wiki)
 * [Polkadot Wiki](https://wiki.polkadot.network), [on GitHub](https://github.com/w3f/Web3-wiki/wiki/Polkadot)
-* [Substrate Developer Hub](https://substrate.readme.io)
-* [substrate_service Crate Documentation](https://crates.parity.io/substrate_service/index.html)
+* [Substrate Developer Hub](https://substrate.dev/)
 * [Substrate Wiki](https://wiki.parity.io/Parity-Substrate)
-* [Substrate Wiki GitHub @paritytech](https://github.com/paritytech/substrate/wiki)
 * [swarms, New, completed and in-progress features for Status](https://github.com/status-im/swarms)
-* [Validating on PoC 2](https://github.com/paritytech/polkadot/wiki/Validating-on-PoC-2)
 * [Web3 Hub](https://wiki.web3.foundation)
 
 ## Ecosystem Blockchains
@@ -75,6 +68,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [katallassos, A Standard Framework for Finance](https://github.com/Trinkler/katallassos)
 * [parity-contracts, production-related smart contracts](https://github.com/parity-contracts)
 * [parity-zcash](https://github.com/paritytech/parity-zcash)
+* [Plasm, Plasma x Substrate Blockchain](https://github.com/stakedtechnologies/Plasm)
 * [shasper, Shasper beacon chain implementation using the Substrate framework](https://github.com/paritytech/shasper)
 * [Starlog, Metadata Blockchain based on Substrate](https://github.com/PACTCare/Starlog)
 * [substrate-node-joystream, A user governed video platform](https://github.com/Joystream/substrate-node-joystream)
@@ -88,6 +82,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [go-pre, Golang Polkadot Runtime Environment Implementation](https://github.com/ChainSafeSystems/go-pre)
 * [ink, Parity's ink to write smart contracts ](https://github.com/paritytech/ink/)
 * [Jaco’s UI for Substrate and Polkadot built with React.js and RxJS](https://polkadot.js.org/apps/next/#/explorer)
+* [lightbeam, optimising streaming WebAssembly compiler designed for optimal performance in Substrate's smart contract subsystem](https://github.com/CraneStation/lightbeam)
 * [pdsl, Parity's DSL for Smart Contracts](https://github.com/Robbepop/pdsl)
 * [Polkabot, network monitoring and reporting](https://medium.com/polkadot-network/polkabot-a3dba18c20c8)
 * [polkadot cpp, C++ Polkadot Runtime Environment Implementation](https://github.com/soramitsu/polkadot)
@@ -181,7 +176,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [utxo-workshop, A Substrate UTXO workshop](https://github.com/nczhu/utxo-workshop)
 * [wasm-example, how we compiled libp2p into wasm and made it run in the browser](https://github.com/tomaka/libp2p-rs/tree/wasm-test/misc/wasm-example), [slides](https://github.com/tomaka/2019-rustlatam-meetup)
 
-## Turorial Step by Step
+## Tutorial Step by Step
 * [Creating a custom Substrate chain](https://substrate.readme.io/docs/creating-a-custom-substrate-chain)
 * [Deploying a Smart Contract on Substrate Node](https://www.youtube.com/watch?v=26ucTSSaqog)
 * [Deploying a Substrate Node chain](https://substrate.readme.io/docs/deploying-a-substrate-node-chain)
@@ -201,7 +196,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Substrate](https://www.parity.io/substrate/)
 * [Web3 Foundation](https://web3.foundation)
 
-## YouTube Channel
+## YouTube Channels
 * [Parity Tech](https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg)
 * [Polkadot Network](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
 * [Web3 Foundation](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g)
