@@ -66,6 +66,11 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Chainx, Fully Decentralized Cross-chain Crypto Asset Management on Polkadot](https://github.com/chainx-org/ChainX)
 * [Edgeware, an experimental blockchain for demonstrating the effectiveness of on-chain governance](https://github.com/hicommonwealth)
 * [katallassos, A Standard Framework for Finance](https://github.com/Trinkler/katallassos)
+*  Kusama Network
+    * [@kusamanetwork on Twitter](https://twitter.com/kusamanetwork)
+    * [Newsletter](https://kusama.network/newsletter)
+    * [Official Website](https://kusama.network/)
+    * [Riot Room](https://riot.im/app/#/room/!HfRYKXBoPmDBCAWUEJ:polkadot.builders?via=web3.foundation&via=matrix.org&via=matrix.parity.io)
 * [parity-contracts, production-related smart contracts](https://github.com/parity-contracts)
 * [parity-zcash](https://github.com/paritytech/parity-zcash)
 * [Plasm, Plasma x Substrate Blockchain](https://github.com/stakedtechnologies/Plasm)
@@ -185,6 +190,11 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [How To Build Your Own Blockchain Using Parity Substrate, 20190411](https://hackernoon.com/build-your-blockchain-with-parity-substrate-a8ddc4872ed7)
 * [Proof of Existence Blockchain with Substrate](https://shawntabrizi.com/parity/proof-of-existence-blockchain-with-substrate/)
 * [Substrate Collectables Workshop](https://shawntabrizi.github.io/substrate-collectables-workshop/#/README)
+* Substrate Collaborative Learning
+    * [Loosely Coupled Modules Live Coding, 20190715](https://www.youtube.com/watch?v=nFPTVumA4EQ&t=), [Source Code of Marketplace](https://github.com/JoshOrndorff/Marketplace), [Source Code of state-changer](https://github.com/JoshOrndorff/state-changer)
+    * [Substrate Runtime Traits, 20190701](https://www.youtube.com/watch?v=ufQrmVHyGFo&t)
+    * [Add the Contracts Module to Substrate Node Template, 20190617](https://www.youtube.com/watch?v=aPTmRFowGrA)
+    * [Start a Private Blockchain with Substrate, 20190603](https://www.youtube.com/watch?v=c_gnSEpoQ_k)
 * [Substrate Contracts Workshop](https://shawntabrizi.com/substrate-contracts-workshop/#/)
 * [Substrate node, Install and run a Substrate node on BBQ-Birch testnet](https://hackmd.io/y-E9Q9jTRreni6z9EU0kkA#)
 * [Substrate Runtime Recipes](https://substrate.readme.io/docs/substrate-runtime-recipes)
