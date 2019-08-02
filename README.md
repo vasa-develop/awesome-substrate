@@ -1,19 +1,19 @@
 # Awesome Substrate
 A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 Foundation.
 
-- [Awesome Substrate](#Awesome-Substrate)
-	- [Blogs](#Blogs)
-	- [Community](#Community)
-	- [Documentation](#Documentation)
-	- [Ecosystem Blockchains](#Ecosystem-Blockchains)
-	- [Ecosystem Tools](#Ecosystem-Tools)
-	- [Papers](#Papers)
-	- [Repositories](#Repositories)
-	- [Talks](#Talks)
-	- [Tutorial Repositories](#Tutorial-Repositories)
-	- [Tutorial Step by Step](#Tutorial-Step-by-Step)
-	- [Website](#Website)
-	- [YouTube Channels](#YouTube-Channels)
+- [Awesome Substrate](#awesome-substrate)
+	- [Blogs](#blogs)
+	- [Community](#community)
+	- [Documentation](#documentation)
+	- [Ecosystem Blockchains](#ecosystem-blockchains)
+	- [Ecosystem Tools](#ecosystem-tools)
+	- [Papers](#papers)
+	- [Repositories](#repositories)
+	- [Talks](#talks)
+	- [Tutorial Repositories](#tutorial-repositories)
+	- [Tutorial Step by Step](#tutorial-step-by-step)
+	- [Website](#website)
+	- [YouTube Channels](#youtube-channels)
 
 ## Blogs
 * [Gavin Wood](https://medium.com/@gavofyork)
@@ -66,6 +66,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Chainx, Fully Decentralized Cross-chain Crypto Asset Management on Polkadot](https://github.com/chainx-org/ChainX)
 * [Edgeware, an experimental blockchain for demonstrating the effectiveness of on-chain governance](https://github.com/hicommonwealth)
 * [katallassos, A Standard Framework for Finance](https://github.com/Trinkler/katallassos)
+* [KILT Prototype](https://github.com/KILTprotocol/mashnet-node)
 *  Kusama Network
     * [@kusamanetwork on Twitter](https://twitter.com/kusamanetwork)
     * [Newsletter](https://kusama.network/newsletter)
@@ -189,6 +190,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [How to build a Custom Substrate Module from scratch](https://gitlab.com/chrisdcosta/basictest/blob/master/Howto.md)
 * [How To Build Your Own Blockchain Using Parity Substrate, 20190411](https://hackernoon.com/build-your-blockchain-with-parity-substrate-a8ddc4872ed7)
 * [Proof of Existence Blockchain with Substrate](https://shawntabrizi.com/parity/proof-of-existence-blockchain-with-substrate/)
+* [Running a Validator on Polkadot](https://www.youtube.com/watch?v=uPEenumacAE), [Workshop Commands and Links](https://gist.github.com/laboon/f4ba9741b290d63334ad6e29e2bf3f70)
 * [Substrate Collectables Workshop](https://shawntabrizi.github.io/substrate-collectables-workshop/#/README)
 * Substrate Collaborative Learning
     * [Loosely Coupled Modules Live Coding, 20190715](https://www.youtube.com/watch?v=nFPTVumA4EQ&t=), [Source Code of Marketplace](https://github.com/JoshOrndorff/Marketplace), [Source Code of state-changer](https://github.com/JoshOrndorff/state-changer)
