@@ -127,6 +127,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 ## Talks
 * [Benjamin Kampmann, A New Dawn: Building DApps with Substrate, 20190208](https://www.youtube.com/watch?v=Bamo8xjPzVc)
 * [Benjamin Kampmann, WASM in the wild, 20181107](https://www.youtube.com/watch?v=ULQRGXziF3s&t)
+* [Gavin Wood, Building Tech That Protects Our Interests, 20190806](https://relaychain.fm/1-gavin-wood)
 * [Gavin Wood, AMA with Dr. Gavin Wood at Sub0: Substrate Developer Conference, 20190510](https://www.youtube.com/watch?v=05H4YsyPA-U)
 * [Gavin Wood, Substrate Module Overview + Future Directions, Polkadot Governance at Sub0, 20190510](https://www.youtube.com/watch?v=kpUO8g_Ig0A)
 * [Gavin Wood, Gavin Wood & Jehan Chu: "The Common Ground of Ethereum and Polkadot", 20090502](https://www.youtube.com/watch?v=YvAbXiTG96E)
@@ -152,6 +153,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Maciej Hirsz, ZeroKnowledgeFM 5: A fireside chat with a couple Parity peeps, 20171218](https://www.zeroknowledge.fm/5)
 * [Peter Czaba, Polkadot – The Internet of Blockchain Networks, 20170904](https://www.youtube.com/watch?v=oiunBLGHlAU)
 * [Presentation material](https://github.com/w3f/Web3-collaboration/blob/master/meetups.md)
+* [Relay Chain Podcast](https://relaychain.fm/)
 * [Robert Habermeier, Polkadot, a framework for writing specialized blockchains & a consensus system to glue them together, 20190515](https://www.youtube.com/watch?v=mZWhRbLRSRU)
 * [Robert Habermeier, How does Polkadot Compare to Ethereum & Cosmos, 20190424](https://podcasts.apple.com/us/podcast/how-does-polkadot-compare-to-ethereum-cosmos-rob-habermeier/id1350649166?i=1000436351301)
 * [Robert Habermeier, on GRANDPA consensus in Polkadot at EthCC 2, 20190310](https://www.youtube.com/watch?v=sNU40AE2ako)
@@ -192,7 +194,8 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Proof of Existence Blockchain with Substrate](https://shawntabrizi.com/parity/proof-of-existence-blockchain-with-substrate/)
 * [Running a Validator on Polkadot](https://www.youtube.com/watch?v=uPEenumacAE), [Workshop Commands and Links](https://gist.github.com/laboon/f4ba9741b290d63334ad6e29e2bf3f70)
 * [Substrate Collectables Workshop](https://shawntabrizi.github.io/substrate-collectables-workshop/#/README)
-* Substrate Collaborative Learning
+* [Substrate Collaborative Learning](https://www.youtube.com/playlist?list=PLp0_ueXY_enUCPszf_3Q9ZxovLvKm1eMx)
+    * [Governance Patterns from the SRML, 20190729](https://www.youtube.com/watch?v=kneBaK2ynCs)
     * [Loosely Coupled Modules Live Coding, 20190715](https://www.youtube.com/watch?v=nFPTVumA4EQ&t=), [Source Code of Marketplace](https://github.com/JoshOrndorff/Marketplace), [Source Code of state-changer](https://github.com/JoshOrndorff/state-changer)
     * [Substrate Runtime Traits, 20190701](https://www.youtube.com/watch?v=ufQrmVHyGFo&t)
     * [Add the Contracts Module to Substrate Node Template, 20190617](https://www.youtube.com/watch?v=aPTmRFowGrA)
