@@ -195,6 +195,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Running a Validator on Polkadot](https://www.youtube.com/watch?v=uPEenumacAE), [Workshop Commands and Links](https://gist.github.com/laboon/f4ba9741b290d63334ad6e29e2bf3f70)
 * [Substrate Collectables Workshop](https://shawntabrizi.github.io/substrate-collectables-workshop/#/README)
 * [Substrate Collaborative Learning](https://www.youtube.com/playlist?list=PLp0_ueXY_enUCPszf_3Q9ZxovLvKm1eMx)
+    * [Substrate Poker Walkthrough, 20190812](https://www.youtube.com/watch?v=PtDnArhebO0)
     * [Governance Patterns from the SRML, 20190729](https://www.youtube.com/watch?v=kneBaK2ynCs)
     * [Loosely Coupled Modules Live Coding, 20190715](https://www.youtube.com/watch?v=nFPTVumA4EQ&t=), [Source Code of Marketplace](https://github.com/JoshOrndorff/Marketplace), [Source Code of state-changer](https://github.com/JoshOrndorff/state-changer)
     * [Substrate Runtime Traits, 20190701](https://www.youtube.com/watch?v=ufQrmVHyGFo&t)
