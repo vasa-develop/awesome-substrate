@@ -27,6 +27,7 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Web3 Foundation Team](https://medium.com/@web3)
 
 ## Community
+* [Area 51, Stack Exchange Q&A](https://area51.stackexchange.com/proposals/122626/substrate)
 * [Gitter](https://gitter.im/paritytech/parity)
 * [Reddit dot](https://www.reddit.com/r/dot/)
 * [Reddit polkadot_market](https://www.reddit.com/r/polkadot_market)
@@ -67,11 +68,12 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Edgeware, an experimental blockchain for demonstrating the effectiveness of on-chain governance](https://github.com/hicommonwealth)
 * [katallassos, A Standard Framework for Finance](https://github.com/Trinkler/katallassos)
 * [KILT Prototype](https://github.com/KILTprotocol/mashnet-node)
-*  Kusama Network
+*  [Kusama Network](https://github.com/kusamanetwork)
     * [@kusamanetwork on Twitter](https://twitter.com/kusamanetwork)
     * [Newsletter](https://kusama.network/newsletter)
     * [Official Website](https://kusama.network/)
     * [Riot Room](https://riot.im/app/#/room/!HfRYKXBoPmDBCAWUEJ:polkadot.builders?via=web3.foundation&via=matrix.org&via=matrix.parity.io)
+    * [User Guide](https://github.com/kusamanetwork/userguide)
 * [parity-contracts, production-related smart contracts](https://github.com/parity-contracts)
 * [parity-zcash](https://github.com/paritytech/parity-zcash)
 * [Plasm, Plasma x Substrate Blockchain](https://github.com/stakedtechnologies/Plasm)
