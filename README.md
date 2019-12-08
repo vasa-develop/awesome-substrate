@@ -18,8 +18,6 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 ## Blogs
 * [Gavin Wood](https://medium.com/@gavofyork)
 * [Parity Blog](https://www.parity.io/blog/)
-* [Parity](https://medium.com/paritytech)
-* [Parity Team](https://medium.com/@ParityTech)
 * [Polkadot](https://medium.com/polkadot-network)
 * [Polkadot Team](https://medium.com/@polkadotnetwork)
 * [Robert Habermeier](https://medium.com/@rphmeier)
@@ -27,7 +25,6 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Web3 Foundation Team](https://medium.com/@web3)
 
 ## Community
-* [Area 51, Stack Exchange Q&A](https://area51.stackexchange.com/proposals/122626/substrate)
 * [Gitter](https://gitter.im/paritytech/parity)
 * [Reddit dot](https://www.reddit.com/r/dot/)
 * [Reddit polkadot_market](https://www.reddit.com/r/polkadot_market)
@@ -35,7 +32,6 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Riot substrate](https://riot.im/app/#/room/#substrate-technical:matrix.org)
 * [Riot watercooler](https://riot.im/app/#/room/#watercooler:matrix.parity.io)
 * [Telegram official](https://t.me/PolkadotOfficial)
-* [Telegram trollbox](https://t.me/polkadot_trollbox)
 * [Twitter parity](https://twitter.com/ParityTech)
 * [Twitter polkadot](https://twitter.com/polkadotnetwork)
 * [Twitter w3f](https://twitter.com/web3foundation)
@@ -193,6 +189,12 @@ A curated list of awesome resources of Substrate, Polkadot, ParityTech and Web3 
 * [Governance "Public" Mechanism with a Substrate Node Chain](https://substrate.readme.io/v1.0.0/docs/governance-public-mechanism-with-a-substrate-node-chain)
 * [How to build a Custom Substrate Module from scratch](https://gitlab.com/chrisdcosta/basictest/blob/master/Howto.md)
 * [How To Build Your Own Blockchain Using Parity Substrate, 20190411](https://hackernoon.com/build-your-blockchain-with-parity-substrate-a8ddc4872ed7)
+* [Polkadot Webinar on Crowdcast](https://www.crowdcast.io/polkadot)
+    * [Participating on Kusama](https://www.crowdcast.io/e/participating-on-kusama)
+    * [Understanding Accounts & Keys in Polkadot](https://www.crowdcast.io/e/polkadot-keys)
+    * [Validating on Polkadot](https://www.crowdcast.io/e/validating-on-polkadot)
+    * [Block Production and Finalization in Polkadot](https://www.crowdcast.io/e/polkadot-block-production)
+    * [Governance on Polkadot](https://www.crowdcast.io/e/governance-on-polkadot--)
 * [Proof of Existence Blockchain with Substrate](https://shawntabrizi.com/parity/proof-of-existence-blockchain-with-substrate/)
 * [Running a Validator on Polkadot](https://www.youtube.com/watch?v=uPEenumacAE), [Workshop Commands and Links](https://gist.github.com/laboon/f4ba9741b290d63334ad6e29e2bf3f70)
 * [Substrate Collectables Workshop](https://shawntabrizi.github.io/substrate-collectables-workshop/#/README)
